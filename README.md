@@ -1,16 +1,19 @@
-## Hi there 👋
+ 👋 Hi,i am vg-khoi
 
-<!--
-**vg-khoi/vg-khoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring programmer/Tech explorer/Problem solver 
 
-Here are some ideas to get you started:
+🌱 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently exploring computer programming and different technologies.
+💡 Interested in web development, software engineering and AI.
+🛠️ Experimenting with pytho, JavaScript and other languages.
+📚 Learning data structures, algorithms and best coding practices.
+🗨️ Always open to discussing new tech and collaboration on projects!
+
+🔧My Tech Journey 
+Languages: Python, JavaScript (exploring more!)
+Frameworks: Trying out React,Node.js
+Tools: Git,Vs code,Linux(learning command-line skills)
+📊 GitHub Stats
+📫 Connect With Me
+🚀 Excited to learn, explore and build cool projects!
