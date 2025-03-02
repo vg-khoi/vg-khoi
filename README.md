@@ -15,5 +15,5 @@ Languages: Python, JavaScript (exploring more!)
 Frameworks: Trying out React,Node.js
 Tools: Git,Vs code,Linux(learning command-line skills)
 📊 GitHub Stats
-📫 Connect With Me
+📫 Connect With Me at wanguiv17@gmail.com
 🚀 Excited to learn, explore and build cool projects!
